@@ -4,9 +4,6 @@
     android:versionCode="8"
     android:versionName="1.0-37a5749f31">
 
-    <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="18" />
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
