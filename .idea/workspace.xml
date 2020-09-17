@@ -10,7 +10,15 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a112a77-48e8-446a-8f54-ffd192e229a4" name="Default" comment="Upgraded to sdk 29&#10;Migrated to Androidx" />
+    <list default="true" id="1a112a77-48e8-446a-8f54-ffd192e229a4" name="Default" comment="Upgraded to sdk 29&#10;Migrated to Androidx">
+      <change afterPath="$PROJECT_DIR$/app/release/app-release.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/legacy/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/viewpager/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/master-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -282,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600311557687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Upgraded to sdk 29&#10;Migrated to Androidx&#10;Generated untested APK">
+      <created>1600311844033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600311844054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -300,7 +315,8 @@
     <MESSAGE value="Upgraded to sdk 28added apk" />
     <MESSAGE value="Upgraded to sdk 28added apk&#10;Translated most of chines to English" />
     <MESSAGE value="Upgraded to sdk 29&#10;Migrated to Androidx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upgraded to sdk 29&#10;Migrated to Androidx" />
+    <MESSAGE value="Upgraded to sdk 29&#10;Migrated to Androidx&#10;Generated untested APK" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upgraded to sdk 29&#10;Migrated to Androidx&#10;Generated untested APK" />
   </component>
   <component name="WindowStateProjectService">
     <state x="158" y="92" key="#PSD" timestamp="1599621940895">
@@ -339,10 +355,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1600311705369" />
-    <state x="233" y="93" key="Vcs.Push.Dialog.v2" timestamp="1599621965317">
+    <state x="233" y="93" key="Vcs.Push.Dialog.v2" timestamp="1600311868416">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1599621965317" />
+    <state x="233" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600311868416" />
     <state x="110" y="120" width="1060" height="480" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599621242783">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
