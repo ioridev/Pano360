@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.piasy:BigImageViewer:1.2.9@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16b46ace510c7827a6904fb431ae7f03/BigImageViewer-1.2.9/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16b46ace510c7827a6904fb431ae7f03/BigImageViewer-1.2.9/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16b46ace510c7827a6904fb431ae7f03/BigImageViewer-1.2.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/583095a29ac3b1bf8c134980b51ac2d0/jetified-BigImageViewer-1.2.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/583095a29ac3b1bf8c134980b51ac2d0/jetified-BigImageViewer-1.2.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/583095a29ac3b1bf8c134980b51ac2d0/jetified-BigImageViewer-1.2.9/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.piasy/BigImageViewer/1.2.9/87fa829d717f89aa71a29525c4aaa1d8d2aec894/BigImageViewer-1.2.9-javadoc.jar!/" />

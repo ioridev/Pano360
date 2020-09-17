@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">全景相机</string>
+    <string name="app_name">Qtun360</string>
     <string name="launch_app">Launch Focal</string>
     <string name="shutter_button">Shutter button</string>
     <string name="cannot_connect_hal">Unable to connect to camera</string>
@@ -65,7 +65,8 @@
     <string name="pano_file_name_format" translatable="false">"'PANO'_yyyyMMdd_HHmmss"</string>
 
     <string name="pano_panorama_rendering_failed">Failed to render panorama.\nTry to take a shorter one.</string>
-    <string name="pano_panorama_rendering">正在合成全景图片\u2026</string>
+    <string name="pano_panorama_rendering">
+Synthesizing panorama\u2026</string>
 
     <!-- PicSphere status -->
     <string name="picsphere_undo_button">UNDO</string>

@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
-    buildToolsVersion "28.0.0"
+    compileSdkVersion 29
+    buildToolsVersion "29.0.2"
 
 
 
     defaultConfig {
         applicationId "fr.xplod.focal"
         minSdkVersion 22
-        targetSdkVersion 28
+        targetSdkVersion 29
 
         ndk {
             abiFilters "armeabi", "armeabi-v7a", "x86", "mips"
@@ -34,7 +34,8 @@ dependencies {
     implementation files('libs/metadata-extractor-2.6.4.jar')
     implementation files('libs/xmpcore.jar')
     implementation files('libs/apache-httpcomponents-httpcore.jar')
-    implementation 'com.android.support:support-v4:28.0.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation "androidx.viewpager:viewpager:1.0.0"
     implementation 'com.getkeepsafe.relinker:relinker:1.2.2'
     implementation 'com.github.piasy:GlideImageLoader:1.2.9'
 }

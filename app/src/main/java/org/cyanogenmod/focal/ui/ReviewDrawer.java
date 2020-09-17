@@ -10,7 +10,9 @@ import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Handler;
 import android.provider.MediaStore;
-import android.support.v4.view.ViewPager;
+
+import androidx.viewpager.widget.PagerAdapter;
+import androidx.viewpager.widget.ViewPager;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.GestureDetector;
@@ -469,7 +471,7 @@ public class ReviewDrawer extends RelativeLayout {
     /**
      * Adapter responsible for showing the images in the list of the review drawer
      */
-    private class ImageListAdapter extends android.support.v4.view.PagerAdapter {
+    private class ImageListAdapter extends PagerAdapter {
         public Map<ImageView, Integer> mViewsToId;
 
         public ImageListAdapter() {
