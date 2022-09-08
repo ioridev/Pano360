@@ -1,0 +1,1782 @@
+[
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_burst_5.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_burst_5.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_sunset.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_sunset.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pin_widget_inactive_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_pin_widget_inactive_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_night.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_night.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_shutter_video_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_shutter_video_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_dark.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_dark.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_shutter_stop_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_shutter_stop_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_videofr_120.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_videofr_120.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_blackboard.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_blackboard.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_burst_15.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_burst_15.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_hdr_on.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_hdr_on.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hud_exposure_ring.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/hud_exposure_ring.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_ring_picsphere_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_ring_picsphere_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_negative.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_negative.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_emboss.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_emboss.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_ring_picsphere_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_ring_picsphere_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ring_camera_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_ring_camera_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_shutter_video_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_shutter_video_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pin_widget_active.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_pin_widget_active.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_videofr_90.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_videofr_90.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_settings_rulethirds.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_settings_rulethirds.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_dish.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_dish.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_backlight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_backlight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_videofr_30.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_videofr_30.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_seek_thumb_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/seek_thumb_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_ring_camera_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_ring_camera_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_settings_resolution.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_settings_resolution.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_asd.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_asd.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_spotlight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_spotlight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_emboss.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_emboss.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_iso_1600.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_iso_1600.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_flash_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_flash_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_save.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_gps_on.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_gps_on.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_autoexposure.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_autoexposure.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_picsphere_undo.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_picsphere_undo.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_burst_5.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_burst_5.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_flash_torch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_flash_torch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-nodpi_picsphere_sky_fr.jpg.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-nodpi/picsphere_sky_fr.jpg"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/layout_activity_camera.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_gallery.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_gallery.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/layout_handy.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/layout/handy.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_snow.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_snow.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-nodpi_picsphere_sky_rt.jpg.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-nodpi/picsphere_sky_rt.jpg"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_aqua.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_aqua.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_ring_video_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_ring_video_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_shutter_stop_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_shutter_stop_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_neon.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_neon.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_beach.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_beach.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/layout_widget_container.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/layout/widget_container.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_baby.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_baby.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_portrait.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_portrait.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_flash_on.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_flash_on.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_hdr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_hdr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_wb_cloudy.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_wb_cloudy.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_iso_hjr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_iso_hjr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_iso_800.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_iso_800.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_hud_focus_ring_fail.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/hud_focus_ring_fail.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_picsphere_viewfinder.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_picsphere_viewfinder.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_antimotionblur.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_antimotionblur.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_pet.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_pet.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable_btn_shutter_photo.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable/btn_shutter_photo.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_fireworks.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_fireworks.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_shutter_photo_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_shutter_photo_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_handheld.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_handheld.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_gps.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_gps.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_videofr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_videofr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_highsensitivity.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_highsensitivity.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_contrast.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_contrast.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_timer_minus.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_timer_minus.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_settings_exposurering.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_settings_exposurering.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_sunset.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_sunset.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_sharpness.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_sharpness.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_iso_400.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_iso_400.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ring_picsphere_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_ring_picsphere_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_recording_pin.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_recording_pin.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_iso_200.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_iso_200.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_flash_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_flash_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_portrait.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_portrait.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_autoexposure_centerweighted.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_autoexposure_centerweighted.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_hud_focus_ring_success.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/hud_focus_ring_success.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ring_video_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_ring_video_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_baby.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_baby.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_sepia.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_sepia.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_handheld.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_handheld.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_flash.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_flash.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_placeholder.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_placeholder.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_iso_1600.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_iso_1600.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cling_pressed.9.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_iso_100.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_iso_100.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_flash_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_flash_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_wb_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_wb_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_mono.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_mono.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_sweepstitch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_sweepstitch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_ar.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_ar.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_sketch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_sketch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_picsphere_marker.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_picsphere_marker.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_sketch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_sketch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_timer_minus.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_timer_minus.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_autoexposure_spotmetering.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_autoexposure_spotmetering.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_autoexposure_centerweighted.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_autoexposure_centerweighted.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_ring_camera_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_ring_camera_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_gps.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_gps.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_sunset.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_sunset.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_night.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_night.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_iso_800.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_iso_800.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_iso_400.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_iso_400.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_picsphere_viewfinder.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_picsphere_viewfinder.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_pet.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_pet.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_theatre.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_theatre.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_settings.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_settings.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_ring_video_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_ring_video_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable_btn_shutter_stop.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable/btn_shutter_stop.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_mono.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_mono.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_negative.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_negative.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cling.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/cling.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_seek_thumb_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/seek_thumb_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_shutter_video_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_shutter_video_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_ring_switchcam_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_ring_switchcam_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_emboss.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_emboss.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_party.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_party.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_hdr_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_hdr_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ring_camera_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_ring_camera_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_highsensitivity.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_highsensitivity.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_candlelight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_candlelight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_fireworks.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_fireworks.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_solarize.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_solarize.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_whiteboard.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_whiteboard.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_ar.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_ar.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_ring_switchcam_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_ring_switchcam_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_document.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_document.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_exposure.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_exposure.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pin_widget_inactive_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_pin_widget_inactive_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_timer_voice.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_timer_voice.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_cling.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/cling.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable_btn_pin_widget_inactive.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable/btn_pin_widget_inactive.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_burst_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_burst_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_flash_on.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_flash_on.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_videofr_60.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_videofr_60.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_sports.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_sports.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_placeholder.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_placeholder.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_dark.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_dark.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_flowers.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_flowers.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_shutter_video_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_shutter_video_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_posterize.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_posterize.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_steadyphoto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_steadyphoto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_videofr_60.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_videofr_60.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_iso_1600.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_iso_1600.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_candlelight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_candlelight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_landscape.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_landscape.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_shutter_photo_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_shutter_photo_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_sports.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_sports.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_cling_pressed.9.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/raw_snd_capture.mp3.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/raw/snd_capture.mp3"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_picsphere_viewfinder.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_picsphere_viewfinder.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_backlightportrait.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_backlightportrait.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_cling_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_cling_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_dark.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_dark.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_flowers.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_flowers.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_sketch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_sketch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_shutter_photo_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_shutter_photo_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_settings_rulethirds.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_settings_rulethirds.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-nodpi_picsphere_sky_bk.jpg.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-nodpi/picsphere_sky_bk.jpg"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_wb_cloudy.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_wb_cloudy.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/layout_showcase_button.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/layout/showcase_button.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_hud_exposure_ring.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/hud_exposure_ring.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_shutterspeed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_shutterspeed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_iso_100.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_iso_100.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_aqua.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_aqua.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hud_focus_ring_success.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/hud_focus_ring_success.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_timer_voice.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_timer_voice.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_timer_voice.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_timer_voice.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_ring_pano_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_ring_pano_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_hand.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/hand.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_contrast.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_contrast.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_wb_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_wb_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_antimotionblur.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_antimotionblur.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_cling_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_cling_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_iso_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_iso_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_hdr_on.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_hdr_on.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_burst_10.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_burst_10.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_softskin.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_softskin.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_ring_switchcam_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_ring_switchcam_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_wb_incandescent.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_wb_incandescent.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_shutter_stop_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_shutter_stop_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_sepia.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_sepia.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_solarize.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_solarize.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_wb_cloudy_daylight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_wb_cloudy_daylight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_ring_pano_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_ring_pano_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_aqua.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_aqua.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ring_switchcam_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_ring_switchcam_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_gps_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_gps_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_sharpness.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_sharpness.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_enhancing.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_enhancing.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_placeholder.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_placeholder.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_timer_plus.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_timer_plus.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_autoexposure_frameaverage.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_autoexposure_frameaverage.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_highsensitivity.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_highsensitivity.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_settings_exposurering.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_settings_exposurering.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_iso_400.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_iso_400.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_burst_15.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_burst_15.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_iso_800.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_iso_800.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_autoexposure_spotmetering.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_autoexposure_spotmetering.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_skintone.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_skintone.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_gps_on.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_gps_on.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_softskin.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_softskin.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_iso_hjr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_iso_hjr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_sweepstitch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_sweepstitch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_burst_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_burst_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_ar.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_ar.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_backlight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_backlight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_exposure.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_exposure.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_shutter_stop_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_shutter_stop_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_flash_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_flash_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_night.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_night.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_posterize.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_posterize.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_theatre.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_theatre.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_iso.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_iso.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_picsphere_undo.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_picsphere_undo.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_spotlight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_spotlight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_shutter_photo_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_shutter_photo_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_recording_pin.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_recording_pin.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_gps_on.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_gps_on.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_sports.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_sports.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_cling_normal.9.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_cling_normal.9.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_wb_fluorescent.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_wb_fluorescent.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_videofr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_videofr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_ring_video_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_ring_video_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_flash.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_flash.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_settings_widgets.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_settings_widgets.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_softskin.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_softskin.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_seek_thumb_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/seek_thumb_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ring_picsphere_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_ring_picsphere_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_videofr_90.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_videofr_90.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_autoexposure_frameaverage.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_autoexposure_frameaverage.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_retouch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_retouch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_none.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_none.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_landscape.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_landscape.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_ring_camera_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_ring_camera_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_backlightportrait.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_backlightportrait.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_ring_picsphere_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_ring_picsphere_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_spotlight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_spotlight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_solarize.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_solarize.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_pic.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/pic.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_autoexposure.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_autoexposure.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_baby.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_baby.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable_review_drawer_button.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable/review_drawer_button.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pin_widget_inactive.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_pin_widget_inactive.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_videofr_30.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_videofr_30.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_whiteboard.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_whiteboard.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_burst_5.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_burst_5.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_nightportrait.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_nightportrait.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_picsphere_undo.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_picsphere_undo.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_steadyphoto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_steadyphoto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_recording_pin.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_recording_pin.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_mono.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_mono.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pin_widget_active.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_pin_widget_active.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_barcode.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_barcode.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_settings_rulethirds.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_settings_rulethirds.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_timer.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_timer.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_asd.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_asd.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_enhancing.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_enhancing.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pin_widget_active.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_pin_widget_active.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_ring_video_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_ring_video_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_videofr_30.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_videofr_30.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_hdr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_hdr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_hdr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_hdr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ring_video_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_ring_video_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_flash_on.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_flash_on.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/layout_keyguard_widget.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/layout/keyguard_widget.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_snow.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_snow.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_iso.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_iso.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_theatre.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_theatre.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_skintone.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_skintone.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_shutter_stop_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_shutter_stop_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_party.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_party.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_iso.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_iso.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_candlelight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_candlelight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_shutter_video_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_shutter_video_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_settings.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_settings.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_seek_thumb_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/seek_thumb_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_hdr_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_hdr_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_burst_15.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_burst_15.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-nodpi_picsphere_sky_dn.jpg.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-nodpi/picsphere_sky_dn.jpg"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_hdr_aebracket.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_hdr_aebracket.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_gps_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_gps_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_saturation.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_saturation.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_shutterspeed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_shutterspeed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_ring_pano_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_ring_pano_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_iso_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_iso_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_settings_resolution.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_settings_resolution.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_wb_incandescent.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_wb_incandescent.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_hand.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/hand.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_flowers.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_flowers.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_videofr_120.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_videofr_120.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_shutter_photo_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_shutter_photo_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_autoexposure_spotmetering.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_autoexposure_spotmetering.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_hud_focus_ring_success.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/hud_focus_ring_success.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_settings_widgets.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_settings_widgets.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_shutterspeed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_shutterspeed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_wb_daylight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_wb_daylight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/xml_widget_info.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/xml/widget_info.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_autoexposure_frameaverage.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_autoexposure_frameaverage.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_sepia.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_sepia.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_saturation.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_saturation.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_burst_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_burst_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_shutter_video_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_shutter_video_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_videofr_120.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_videofr_120.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_nightportrait.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_nightportrait.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_flash_redeye.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_flash_redeye.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_settings_exposurering.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_settings_exposurering.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ring_pano_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_ring_pano_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_handheld.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_handheld.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/layout_activity_test.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/layout/activity_test.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_burst.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_burst.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pin_widget_inactive.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_pin_widget_inactive.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_hud_exposure_ring.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/hud_exposure_ring.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_asd.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_asd.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-nodpi_picsphere_sky_lt.jpg.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-nodpi/picsphere_sky_lt.jpg"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ring_pano_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_ring_pano_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_wb_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_wb_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_beach.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_beach.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_timer_plus.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_timer_plus.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_pet.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_pet.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_settings_resolution.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_settings_resolution.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_burst_inf.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_burst_inf.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_landscape.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_landscape.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_barcode.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_barcode.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_burst_inf.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_burst_inf.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_ring_picsphere_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/btn_ring_picsphere_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_set.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/set.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_gallery.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_gallery.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_picsphere_marker.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_picsphere_marker.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_settings.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_settings.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/layout_widget_layout.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/layout/widget_layout.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_hdr_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_hdr_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_ring_camera_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_ring_camera_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_videofr_60.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_videofr_60.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_none.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_none.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_cling.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/cling.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_autoexposure_centerweighted.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_autoexposure_centerweighted.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_iso_200.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_iso_200.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_flash_redeye.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_flash_redeye.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_contrast.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_contrast.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_autoexposure.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_autoexposure.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_flash_torch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_flash_torch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_negative.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_negative.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_hdr_aebracket.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_hdr_aebracket.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_picsphere_marker.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_picsphere_marker.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_burst_inf.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_burst_inf.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_flash.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_flash.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hud_focus_ring_fail.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/hud_focus_ring_fail.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_settings_widgets.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_settings_widgets.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_timer_minus.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_timer_minus.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_neon.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_neon.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_portrait.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_portrait.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_burst_10.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_burst_10.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_beach.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_beach.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_wb_daylight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_wb_daylight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_save.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cling_normal.9.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_cling_normal.9.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_iso_100.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_iso_100.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hand.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/hand.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_hdr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_hdr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_hdr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_hdr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_hdr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_hdr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_flash_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_flash_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_steadyphoto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_steadyphoto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_hdr_on.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_hdr_on.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_hud_focus_ring_fail.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/hud_focus_ring_fail.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pin_widget_inactive_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_pin_widget_inactive_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_antimotionblur.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_antimotionblur.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_timer.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_timer.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_ring_pano_hover.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_ring_pano_hover.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_wb_cloudy_daylight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_wb_cloudy_daylight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ring_switchcam_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_ring_switchcam_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_sharpness.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_sharpness.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_saturation.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_saturation.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_shutter_stop_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_shutter_stop_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_wb_cloudy_daylight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_wb_cloudy_daylight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_retouch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_retouch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_ring_switchcam_normal.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/btn_ring_switchcam_normal.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_timer_plus.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_timer_plus.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_whiteboard.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_whiteboard.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_wb_incandescent.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_wb_incandescent.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_flash_torch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_flash_torch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_burst.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_burst.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_fireworks.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_fireworks.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_dish.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_dish.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_document.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_document.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable_btn_shutter_video.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable/btn_shutter_video.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_nightportrait.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_nightportrait.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_barcode.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_barcode.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_gps.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_gps.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_shutter_photo_pressed.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/btn_shutter_photo_pressed.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_hdr_aebracket.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_hdr_aebracket.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/layout_activity_big_img.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/layout/activity_big_img.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_document.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_document.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_dish.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_dish.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_burst.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_burst.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_backlightportrait.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_backlightportrait.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable_cling_button_bg.xml.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable/cling_button_bg.xml"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_backlight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_backlight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_timer.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_timer.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_wb_daylight.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_wb_daylight.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_none.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_none.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-nodpi_picsphere_sky_up.jpg.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-nodpi/picsphere_sky_up.jpg"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_effect_blackboard.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_effect_blackboard.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_iso_hjr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_iso_hjr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_wb_cloudy.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_wb_cloudy.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_sweepstitch.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_sweepstitch.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_iso_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_iso_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_enhancing.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_enhancing.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_videofr.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_videofr.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_burst_10.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_burst_10.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_neon.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_neon.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pin_widget_inactive.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_pin_widget_inactive.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_party.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_party.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_iso_200.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_iso_200.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_videofr_90.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_videofr_90.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_wb_fluorescent.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_wb_fluorescent.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_gps_off.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_gps_off.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_wb_fluorescent.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_wb_fluorescent.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_effect_blackboard.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_effect_blackboard.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_skintone.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_skintone.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_exposure.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_exposure.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_widget_scenemode_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xhdpi/ic_widget_scenemode_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_effect_posterize.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_effect_posterize.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_scenemode_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_scenemode_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_flash_redeye.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_flash_redeye.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_widget_scenemode_snow.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_widget_scenemode_snow.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_widget_flash_auto.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-hdpi/ic_widget_flash_auto.png"
+    },
+    {
+        "merged": "/Users/iori/src/Pano360/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_save.png.flat",
+        "source": "/Users/iori/src/Pano360/app/src/main/res/drawable-xxhdpi/ic_save.png"
+    }
+]

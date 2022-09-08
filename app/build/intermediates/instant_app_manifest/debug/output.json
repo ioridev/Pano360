@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "fr.xplod.focal",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 8,
+        "versionName": "1.0-37a5749f31",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "fr.xplod.focal",
+        "split": "",
+        "minSdkVersion": "22"
+      }
+    }
+  ]
+}

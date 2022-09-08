@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-OpenGL-PanoramaCamera_Android.iml" filepath="$PROJECT_DIR$/.idea/modules/-OpenGL-PanoramaCamera_Android.iml" group="-OpenGL-PanoramaCamera_Android" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="-OpenGL-PanoramaCamera_Android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pano360.iml" filepath="$PROJECT_DIR$/.idea/modules/Pano360.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pano360.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pano360.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pano360.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pano360.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pano360.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pano360.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pano360.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pano360.app.unitTest.iml" />
     </modules>
   </component>
 </project>

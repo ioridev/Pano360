@@ -1,0 +1,169 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="fr.xplod.focal"
+4    android:versionCode="8"
+5    android:versionName="1.0-37a5749f31" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:8:5-65
+11-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:8:22-62
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:9:5-71
+12-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:9:22-68
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:10:5-81
+13-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:10:22-78
+14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+14-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:11:5-81
+14-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:11:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:12:5-80
+15-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:12:22-77
+16
+17    <uses-feature android:name="android.hardware.camera" />
+17-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:14:5-60
+17-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:14:19-57
+18    <uses-feature android:name="android.hardware.camera.autofocus" />
+18-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:15:5-70
+18-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:15:19-67
+19
+20    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->[com.github.piasy:BigImageViewer:1.5.4.1] /Users/iori/.gradle/caches/transforms-2/files-2.1/b2522ec328482ce428706bb4200a52f0/jetified-BigImageViewer-1.5.4.1/AndroidManifest.xml:34:5-67
+21-->[com.github.piasy:BigImageViewer:1.5.4.1] /Users/iori/.gradle/caches/transforms-2/files-2.1/b2522ec328482ce428706bb4200a52f0/jetified-BigImageViewer-1.5.4.1/AndroidManifest.xml:34:22-64
+22
+23    <application
+23-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:19:5-79:19
+24        android:name="org.cyanogenmod.focal.CameraApplication"
+24-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:20:9-63
+25        android:allowBackup="true"
+25-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:21:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.0.0] /Users/iori/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/AndroidManifest.xml:22:18-86
+27        android:debuggable="true"
+28        android:icon="@drawable/ic"
+28-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:22:9-36
+29        android:label="@string/app_name"
+29-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:23:9-41
+30        android:largeHeap="true"
+30-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:24:9-33
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme" >
+32-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:25:9-40
+33        <service android:name="org.cyanogenmod.focal.picsphere.PicSphereRenderingService" />
+33-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:26:9-93
+33-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:26:18-90
+34        <service android:name="org.cyanogenmod.focal.feats.SoftwareHdrRenderingService" />
+34-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:27:9-91
+34-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:27:18-88
+35
+36        <activity
+36-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:29:9-140
+37            android:name="org.cyanogenmod.focal.ImageAct"
+37-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:29:19-64
+38            android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen" />
+38-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:29:65-138
+39        <activity
+39-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:31:9-55:20
+40            android:name="org.cyanogenmod.focal.CameraActivity"
+40-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:32:13-64
+41            android:configChanges="orientation|keyboardHidden|screenSize"
+41-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:33:13-74
+42            android:label="@string/app_name"
+42-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:34:13-45
+43            android:launchMode="singleInstance"
+43-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:35:13-48
+44            android:screenOrientation="portrait"
+44-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:36:13-49
+45            android:theme="@style/AppTheme" >
+45-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:37:13-44
+46            <intent-filter>
+46-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:39:13-43:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:40:17-69
+47-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:40:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:42:17-77
+49-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:42:27-74
+50            </intent-filter>
+51            <intent-filter>
+51-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:45:13-50:29
+52                <action android:name="android.media.action.STILL_IMAGE_CAMERA" />
+52-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:46:17-82
+52-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:46:25-79
+53                <action android:name="android.media.action.STILL_IMAGE_CAMERA_SECURE" />
+53-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:47:17-89
+53-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:47:25-86
+54
+55                <category android:name="android.intent.category.DEFAULT" />
+55-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:49:17-76
+55-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:49:27-73
+56            </intent-filter>
+57
+58            <meta-data
+58-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:52:13-54:62
+59                android:name="com.android.keyguard.layout"
+59-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:53:17-59
+60                android:resource="@layout/keyguard_widget" />
+60-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:54:17-59
+61        </activity>
+62
+63        <receiver android:name="org.cyanogenmod.focal.CameraButtonIntentReceiver" >
+63-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:57:9-61:20
+63-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:57:19-82
+64            <intent-filter>
+64-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:58:13-60:29
+65                <action android:name="android.intent.action.CAMERA_BUTTON" />
+65-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:59:17-78
+65-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:59:25-75
+66            </intent-filter>
+67        </receiver>
+68        <receiver android:name="org.cyanogenmod.focal.DisableCameraReceiver" >
+68-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:62:9-66:20
+68-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:62:19-77
+69            <intent-filter>
+69-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:63:13-65:29
+70                <action android:name="android.intent.action.BOOT_COMPLETED" />
+70-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:64:17-79
+70-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:64:25-76
+71            </intent-filter>
+72        </receiver>
+73        <receiver android:name="org.cyanogenmod.focal.WidgetProvider" >
+73-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:67:9-75:20
+73-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:67:19-70
+74            <intent-filter>
+74-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:68:13-70:29
+75                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+75-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:69:17-84
+75-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:69:25-81
+76            </intent-filter>
+77
+78            <meta-data
+78-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:72:13-74:55
+79                android:name="android.appwidget.provider"
+79-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:73:17-58
+80                android:resource="@xml/widget_info" />
+80-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:74:17-52
+81        </receiver>
+82
+83        <activity android:name="org.cyanogenmod.focal.TestActivity" >
+83-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:77:9-78:20
+83-->/Users/iori/src/Pano360/app/src/main/AndroidManifest.xml:77:19-68
+84        </activity>
+85
+86        <meta-data
+86-->[com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/iori/.gradle/caches/transforms-2/files-2.1/7bc6bbdc93170081f212e0af8156a78c/jetified-okhttp3-integration-4.8.0/AndroidManifest.xml:11:9-13:43
+87            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+87-->[com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/iori/.gradle/caches/transforms-2/files-2.1/7bc6bbdc93170081f212e0af8156a78c/jetified-okhttp3-integration-4.8.0/AndroidManifest.xml:12:13-84
+88            android:value="GlideModule" />
+88-->[com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/iori/.gradle/caches/transforms-2/files-2.1/7bc6bbdc93170081f212e0af8156a78c/jetified-okhttp3-integration-4.8.0/AndroidManifest.xml:13:13-40
+89    </application>
+90
+91</manifest>
