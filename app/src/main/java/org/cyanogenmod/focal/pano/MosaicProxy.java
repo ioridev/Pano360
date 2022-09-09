@@ -440,7 +440,7 @@ public class MosaicProxy extends CaptureTransformer
         mMosaicFrameProcessor.setProgressListener(null);
         //stopCameraPreview();
 
-        mCameraTexture.setOnFrameAvailableListener(null);
+       // mCameraTexture.setOnFrameAvailableListener(null);
 
         mPanoProgressBar.setDoneColor(mActivity.getResources().getColor(R.color.pano_saving_done));
         mPanoProgressBar.setIndicatorColor(mActivity.getResources().getColor(R.color.pano_saving_indication));
