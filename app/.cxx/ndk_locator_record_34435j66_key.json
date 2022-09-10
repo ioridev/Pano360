@@ -1,0 +1,12 @@
+{
+  "ndkVersionFromDsl": "25.1.8937393",
+  "sdkFolder": "/Users/iori/Library/Android/sdk",
+  "sideBySideNdkFolderNames": [
+    "21.4.7075529",
+    "21.0.6113669",
+    "21.2.6472646",
+    "25.1.8937393",
+    "21.1.6352462",
+    "23.1.7779620"
+  ]
+}

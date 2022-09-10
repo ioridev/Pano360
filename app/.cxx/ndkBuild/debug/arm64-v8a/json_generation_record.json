@@ -1,0 +1,62 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 22 min SDK version: arm64-v8a",
+    "file": "/Users/iori/src/android_external_Focal/libpano13/Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/iori/src/Pano360/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build.json due to:",
+    "file": "/Users/iori/src/android_external_Focal/libpano13/Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Users/iori/src/Pano360/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Users/iori/src/android_external_Focal/libpano13/Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Users/iori/src/Pano360/app/.cxx/ndkBuild/debug/arm64-v8a/build_command.txt, will remove stale json folder",
+    "file": "/Users/iori/src/android_external_Focal/libpano13/Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/iori/src/android_external_Focal/libpano13/Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/iori/src/Pano360/app/.cxx/ndkBuild/debug/arm64-v8a\u0027",
+    "file": "/Users/iori/src/android_external_Focal/libpano13/Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/iori/src/Pano360/app/.cxx/ndkBuild/debug/arm64-v8a\u0027",
+    "file": "/Users/iori/src/android_external_Focal/libpano13/Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing ndkBuild Executable : /Users/iori/Library/Android/sdk/ndk/25.1.8937393/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/iori/src/android_external_Focal/libpano13/Android.mk\nAPP_ABI\u003darm64-v8a\nNDK_ALL_ABIS\u003darm64-v8a\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-22\nNDK_OUT\u003d/Users/iori/src/Pano360/app/build/intermediates/ndkBuild/debug/obj\nNDK_LIBS_OUT\u003d/Users/iori/src/Pano360/app/build/intermediates/ndkBuild/debug/lib\nAPP_CPPFLAGS+\u003d\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "/Users/iori/src/android_external_Focal/libpano13/Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : /Users/iori/Library/Android/sdk/ndk/25.1.8937393/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/iori/src/android_external_Focal/libpano13/Android.mk\nAPP_ABI\u003darm64-v8a\nNDK_ALL_ABIS\u003darm64-v8a\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-22\nNDK_OUT\u003d/Users/iori/src/Pano360/app/build/intermediates/ndkBuild/debug/obj\nNDK_LIBS_OUT\u003d/Users/iori/src/Pano360/app/build/intermediates/ndkBuild/debug/lib\nAPP_CPPFLAGS+\u003d\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "/Users/iori/src/android_external_Focal/libpano13/Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: Build command failed.\nError while executing process /Users/iori/Library/Android/sdk/ndk/25.1.8937393/ndk-build with arguments {NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/iori/src/android_external_Focal/libpano13/Android.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-22 NDK_OUT\u003d/Users/iori/src/Pano360/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/iori/src/Pano360/app/build/intermediates/ndkBuild/debug/lib APP_CPPFLAGS+\u003d APP_SHORT_COMMANDS\u003dfalse LOCAL_SHORT_COMMANDS\u003dfalse -B -n}\n\nfcntl(): Bad file descriptor\n/Users/iori/Library/Android/sdk/ndk/25.1.8937393/build/core/build-binary.mk:586: Android NDK: Module pano13 depends on undefined modules: png_static tiff_static jpeg z    \n/Users/iori/Library/Android/sdk/ndk/25.1.8937393/build/core/build-binary.mk:599: *** Android NDK: Note that old versions of ndk-build silently ignored this error case. If your project worked on those versions, the missing libraries were not needed and you can remove those dependencies from the module to fix your build. Alternatively, set APP_ALLOW_MISSING_DEPS\u003dtrue to allow missing dependencies.    .  Stop.\n",
+    "file": "/Users/iori/src/android_external_Focal/libpano13/Android.mk",
+    "tag": "debug|arm64-v8a"
+  }
+]
